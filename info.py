@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Harish')
 API_ID = int(environ.get('API_ID', '24782172'))
 API_HASH = environ.get('API_HASH', 'ec1ef9cce1c4d852365e55e3139b72d8')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7103301815:AAHQUeXal1b695sw8vgsdCx2pRNh8L1mSQo")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7074825381:AAGzkv9_Nj-c1r83kxdeXI6cn1qwAFKexx0")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
